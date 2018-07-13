@@ -6,8 +6,8 @@ class Home extends Component {
   render() {
     return (
       <div className="Home">
-        <p>This will be the home page</p>
 
+        
 
 
       </div>
